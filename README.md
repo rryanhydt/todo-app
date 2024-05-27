@@ -1,1 +1,1 @@
-Ceate ToDo app using HTML CSS and JAVASCRIPT
+Create ToDo app using HTML CSS and JAVASCRIPT
