@@ -1,1 +1,1 @@
-Create ToDo app using HTML CSS and JAVASCRIPT
+Create ToDo List Inspiration Using HTML CSS and JAVASCRIPT
