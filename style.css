@@ -26,6 +26,7 @@ body {
 
 input[type="text"] {
     width: 70%;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 22px;
     border: 4px solid #6a5acd;
     border-radius: 15px;
@@ -75,5 +76,13 @@ ul li.checked {
 ul li.checked::before {
     content: "🗹";
     color: #4a15e9;
+}
+
+ul li span {
+    position: absolute;
+    top: 1.8px;
+    right: 5px;
+    color: rgb(227, 120, 26);
+    font-size: 2rem;
 }
 
